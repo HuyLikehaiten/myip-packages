@@ -1,0 +1,51 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "myip-foo"
+version = "1.0.0"
+description = "Official Python client for myip.foo - free IP lookup API with geolocation"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "VirtualOx B.V.", email = "hello@virtualox.io"}
+]
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Internet",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
+keywords = [
+    "ip",
+    "ip-address",
+    "geolocation",
+    "ipv4",
+    "ipv6",
+    "dual-stack",
+    "vpn-detection",
+    "myip",
+]
+
+[project.optional-dependencies]
+async = ["aiohttp>=3.8.0"]
+
+[project.urls]
+Homepage = "https://myip.foo"
+Documentation = "https://myip.foo/api-docs.html"
+Repository = "https://github.com/virtualox/myip-packages"
+Issues = "https://github.com/virtualox/myip-packages/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/myip_foo"]

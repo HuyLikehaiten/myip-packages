@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MyIpFoo</RootNamespace>
+
+    <!-- NuGet Package Info -->
+    <PackageId>MyIpFoo</PackageId>
+    <Version>1.0.0</Version>
+    <Title>MyIpFoo</Title>
+    <Description>Official .NET client for myip.foo - free IP lookup API with geolocation</Description>
+    <Authors>VirtualOx B.V.</Authors>
+    <Company>VirtualOx B.V.</Company>
+    <Copyright>Copyright (c) 2024 VirtualOx B.V.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://myip.foo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/virtualox/myip-packages</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ip;ip-address;geolocation;ipv4;ipv6;dual-stack;vpn-detection;myip</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+
+    <!-- Enable source link -->
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>
