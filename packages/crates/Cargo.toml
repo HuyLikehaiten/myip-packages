@@ -1,0 +1,22 @@
+[package]
+name = "myip-foo"
+version = "1.0.0"
+edition = "2021"
+authors = ["JustFox <hello@justfox.dev>"]
+description = "Official Rust client for myip.foo - free IP lookup API with geolocation"
+license = "MIT"
+repository = "https://github.com/virtualox/myip-packages"
+homepage = "https://myip.foo"
+documentation = "https://myip.foo/api-docs.html"
+readme = "README.md"
+keywords = ["ip", "geolocation", "ipv4", "ipv6", "api"]
+categories = ["web-programming", "network-programming"]
+
+[dependencies]
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["rt"] }
+
+[dev-dependencies]
+tokio = { version = "1.0", features = ["full", "macros"] }

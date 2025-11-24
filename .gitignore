@@ -15,3 +15,7 @@ __pycache__/
 bin/
 obj/
 *.nupkg
+
+# Rust
+target/
+Cargo.lock

@@ -9,6 +9,7 @@ Official client libraries for [myip.foo](https://myip.foo) - a free, privacy-foc
 | [myip-foo](packages/npm) | JavaScript/TypeScript | `npm install myip-foo` |
 | [myip-foo](packages/pypi) | Python | `pip install myip-foo` |
 | [MyIpFoo](packages/nuget) | .NET | `dotnet add package MyIpFoo` |
+| [myip-foo](packages/crates) | Rust | `cargo add myip-foo` |
 
 ## About MyIP.foo
 
